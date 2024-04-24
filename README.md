@@ -1,0 +1,2 @@
+# DISCORD
+Bot for betting 
